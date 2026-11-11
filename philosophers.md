@@ -1,7 +1,7 @@
 # Philosophers
 
 ### Plato:
-We have chosen plato because our house is for a sporty guy, and you can see from the outside that the house has a sports field and other sporty things.
+We have chosen plato because our house is for a sporty guy, and you can see from the outside that the house has a sports field and other sporty things. He also likes music.
 
 
 ### Aristotle:
