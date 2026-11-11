@@ -1,5 +1,5 @@
 # Duurzaam Huis
-Alles voor ons duurzaam huis, incl. CAD files.
+Alles voor ons duurzaam huis.
 
 ### CAD Files:
 
