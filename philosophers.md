@@ -1,0 +1,6 @@
+# Philosophers
+
+### Plato
+
+
+### Aristotle
