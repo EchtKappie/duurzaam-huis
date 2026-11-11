@@ -10,4 +10,4 @@ We have chosen aristotle, because the house is also built around this guy's pers
 ### General stuff:
 The house is really big and has a big garden. It is in a loud neighborhood.
 
-We will make clear Platonic rooms and clear Aristotalic rooms.
+We will make clear Platonic rooms and clear Aristotalic rooms. We will make one mixed room.
