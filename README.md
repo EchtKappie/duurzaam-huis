@@ -5,6 +5,7 @@ Alles voor ons duurzaam huis.
 
 ### Docs:
 [Philosophers](/philosophers.md)
+
 [Shopping list](/shopping-list.md)
 
 ### Afbeeldingen:
