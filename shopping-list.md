@@ -10,3 +10,5 @@
 | Cotton | x | x |
 | Wallpaper | x | Printer |
 | LED's | x | x |
+
+**Sources**: [https://google.com](Google)
