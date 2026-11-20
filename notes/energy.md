@@ -1,7 +1,15 @@
-Definition: The amount of joule in an electrical device uses over a certain time
+<ins>Energy (E)</ins>
 
-E = p x t
+Definition: The amount of joule an elecrical device uses over a certant time
 
-E is the energy in joule (J)
-P is the Power in Watt (W)
-t is the time in (S)  seconds
+E = P ⋅ T
+
+E is the energy in Joule [J]
+P is the power in Watt [W]
+t is the time in [S]
+
+J = 1W ⋅ 1S
+
+E is the energy in [kWh]
+P is the power in [kW]
+t is the time in [h]
