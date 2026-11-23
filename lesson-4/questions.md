@@ -4,3 +4,4 @@ Also write down your independent, depemdent and controlled variables (lesson 3 s
 I would say that the incandescent bulb is the brightest because it is very old and probably has no limit or energy saving.
 
 **Build the set-up of Figure 7: plug the energy meter into the socket and the lamp holder into the energy meter.**
+334 lux
